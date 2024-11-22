@@ -1,0 +1,117 @@
+/* Header.css */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background: linear-gradient(to right, #f4f4f4, #e9e9e9); /* Subtle light gray gradient */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-bottom: 2px solid #dcdcdc;
+  }
+  
+  .header-logo a {
+    color: #0056b3; /* eBay-inspired blue */
+    font-size: 2rem;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .header-logo a:hover {
+    color: #ff4500; /* Premium vibrant orange */
+  }
+  
+  .header-search {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex: 1;
+    margin: 0 20px;
+  }
+  
+  .header-search input {
+    flex: 1;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    font-size: 1rem;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  .header-search input:focus {
+    outline: none;
+    border-color: #0056b3;
+  }
+  
+  .search-button {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 25px;
+    background: linear-gradient(to right, #0056b3, #004494); /* Deep blue gradient */
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: transform 0.2s ease, background 0.3s ease-in-out;
+  }
+  
+  .search-button:hover {
+    background: linear-gradient(to right, #004494, #003377);
+    transform: translateY(-2px);
+  }
+  
+  .header-action ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header-action li {
+    display: flex;
+    align-items: center;
+  }
+  
+  .action-button {
+    padding: 12px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: transform 0.2s ease, background 0.3s ease-in-out;
+  }
+  
+  .cart-button {
+    background: linear-gradient(to right, #ff9900, #cc7a00); /* Bright yellow-orange gradient */
+    color: white;
+  }
+  
+  .cart-button:hover {
+    background: linear-gradient(to right, #cc7a00, #b26900);
+    transform: translateY(-2px);
+  }
+  
+  .signup-button {
+    background: linear-gradient(to right, #28a745, #218838); /* Vibrant green gradient */
+    color: white;
+  }
+  
+  .signup-button:hover {
+    background: linear-gradient(to right, #218838, #1e7e34);
+    transform: translateY(-2px);
+  }
+  
+  .login-button {
+    background: linear-gradient(to right, #17a2b8, #138496); /* Cool cyan gradient */
+    color: white;
+  }
+  
+  .login-button:hover {
+    background: linear-gradient(to right, #138496, #117a8b);
+    transform: translateY(-2px);
+  }
+  

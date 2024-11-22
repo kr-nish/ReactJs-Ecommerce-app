@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "fullName": "Ram",
+      "email": "ram@email.com",
+      "id": "009f"
+    },
+    {
+      "fullName": "Nishant Gupta",
+      "email": "nishant@gmail.com",
+      "password": "hello123",
+      "id": "ec79"
+    },
+    {
+      "fullName": "Keshav",
+      "email": "Keshav@gmai.com",
+      "id": "7de8"
+    },
+    {
+      "fullName": "Lois",
+      "email": "lois@gmail.com",
+      "id": "ef37"
+    },
+    {
+      "fullName": "Suresh",
+      "email": "suresh123@gmail.com",
+      "id": "3db5"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Apple AirPods Pro (2nd Gen)",
+      "price": 249.99,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/apple-air-pods-2nd-generation-1663778472.jpg?crop=0.501xw:1.00xh;0.249xw,0&resize=640:*"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy Watch 6",
+      "price": 329.99,
+      "image": "https://image-us.samsung.com/us/watches/galaxy-watch6-classic/images/galaxy-watch6-classic-roaming-bottom-mo.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Amazon Echo Dot (5th Gen)",
+      "price": 59.99,
+      "image": "https://media.croma.com/image/upload/v1730269948/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/269863_11_ulomfy.png"
+    },
+    {
+      "id": "4",
+      "name": "Sony WH-1000XM5 Wireless Headphones",
+      "price": 399.99,
+      "image": "https://i.rtings.com/assets/products/Nc33W9lA/sony-wh-1000xm5-wireless/design-medium.jpg?format=auto"
+    },
+    {
+      "id": "5",
+      "name": "Logitech MX Master 3S Wireless Mouse",
+      "price": 99.99,
+      "image": "https://www.jiomart.com/images/product/original/493178932/logitech-mx-master-3s-wireless-optical-mouse-graphite-digital-o493178932-p595399088-5-202301101709.jpeg?im=Resize=(1000,1000)"
+    },
+    {
+      "id": "6",
+      "name": "Microsoft Surface Laptop Go 3",
+      "price": 799.99,
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-12/26/full/1703564008-8531.jpg"
+    },
+    {
+      "id": "7",
+      "name": "GoPro HERO12 Black",
+      "price": 399.99,
+      "image": "https://www.dpreview.com/files/p/articles/9227663809/WBrawley_DPR_GoProHero12_DSCF2111.jpeg"
+    },
+    {
+      "id": "8",
+      "name": "DJI Mini 4 Pro Drone",
+      "price": 759,
+      "image": "https://amateurphotographer.com/wp-content/uploads/sites/7/2023/12/DJI-Mini-4-Pro-ANicholson_02.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Kindle Paperwhite (11th Gen)",
+      "price": 139.99,
+      "image": "https://images.fonearena.com/blog/wp-content/uploads/2021/11/Kindle-Paperwhite-11th-Gen_fonearena-5-1024x604.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Bose SoundLink Revolve+ II",
+      "price": 329,
+      "image": "https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/speakers/soundlink_revolve_images/1920_1920_JPG-SLRII_CT_18-0429_RGB.JPG/jcr:content/renditions/cq5dam.web.320.320.jpeg"
+    },
+    {
+      "id": "11",
+      "name": "ASUS Zephyrus G16",
+      "price": 2499,
+      "image": "https://www.cnet.com/a/img/resize/439f1bab1c7506b26c41bea9ac933426aa08dc93/hub/2024/07/11/ab09dd4f-7687-4778-b102-eb5c12bac964/asus-rog-zephyrus-g16-6120.jpg?auto=webp&fit=crop&height=362&width=644"
+    },
+    {
+      "id": "12",
+      "name": "Google Pixel 9 Pro",
+      "price": 999,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLKE0hn5hQ3QRB8ctp9Q2Av0-rArOX1dEcEQ&s"
+    }
+  ],
+  "cart": [
+    {
+      "id": "0",
+      "name": "",
+      "price": 189.99,
+      "image": "xyz"
+    },
+    {
+      "id": "3",
+      "name": "Amazon Echo Dot (5th Gen)",
+      "price": 59.99,
+      "image": "https://media.croma.com/image/upload/v1730269948/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/269863_11_ulomfy.png"
+    },
+    {
+      "id": "1",
+      "name": "Apple AirPods Pro (2nd Gen)",
+      "price": 249.99,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/apple-air-pods-2nd-generation-1663778472.jpg?crop=0.501xw:1.00xh;0.249xw,0&resize=640:*"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy Watch 6",
+      "price": 329.99,
+      "image": "https://image-us.samsung.com/us/watches/galaxy-watch6-classic/images/galaxy-watch6-classic-roaming-bottom-mo.jpg"
+    }
+  ]
+}
