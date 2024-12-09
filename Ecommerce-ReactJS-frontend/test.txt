@@ -1,0 +1,58 @@
+admin1@gmail.com
+
+
+HelloNishant123
+
+
+Quick recap on Redux/Redux toolkit done
+Quick recap of Hooks and then how to create Custom Hooks, having middleware example. done
+Cookies and Session management in react app. done
+Redux with class component. - done
+Authentication and Authorization in react (having multiple ways) done
+Async error handling and How to handle CORS (Cross Origin Resource Sharing) error in ReactJS
+How to test dynamic data using Jest (unit test case)
+How to use React Developer Tool and Redux DevTool and Debugging the code (how to write console log and function while debugging)
+How to do app versioning in create react app?
+How to connect or render third party API’s in our react app (pop-up or advertisements from different vendors)
+How to connect with third party services within React app. (ex. Amazon, Flipkart) – How to add or use SSL certificates.
+ 
+Java Script:
+What is a closure? Example use cases in JavaScript and React.
+Hoisting State in React and Why?
+
+
+
+
+Tasks to be performed:
+In Cart if same product is added multiple times instead of printing the same product again increase the quantity of the product.
+create a cart summary widget on right hand side that will contain all the product in cart with the product name and amount, add 18% GST to the total amount and $10 shipping charge and then display the total amount payable, below that give a button of buy now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

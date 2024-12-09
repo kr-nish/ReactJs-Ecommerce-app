@@ -15,6 +15,7 @@ app.use(cors({
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
 
+
 // Middleware
 app.use(express.json());
 app.use('/api/auth', authRoutes);

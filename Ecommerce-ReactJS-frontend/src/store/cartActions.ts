@@ -5,6 +5,7 @@ import { Product } from './cartTypes';
 // Action Types (if needed for external usage)
 export const CART_ADD = 'addToCartAsync';
 export const CART_REMOVE = 'removeFromCartAsync';
+
 export const LOAD_DATA ='loadDataAsync'
 
 // Async Actions
@@ -16,6 +17,8 @@ export const addToCartAsync = createAsyncThunk(
       return response.data;
     } catch (error) {
       throw new Error('Failed to add item to cart');
+      console.log(error);
+      
     }
   }
 );
